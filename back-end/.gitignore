@@ -1,0 +1,15 @@
+/target/
+
+**/cargo-clippy.toml
+**/cargo-clippy.stderr
+
+*.log
+
+/build/
+
+*.rs.bk
+
+/.cargo/
+
+.idea/
+.vscode/
