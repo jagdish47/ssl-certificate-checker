@@ -40,6 +40,16 @@ cd back-end
   To build and run the backend, use the following commands
 
 ```
-curl build
-curl run
+cargo build
+cargo run
 ```
+
+or
+
+```
+cargo run
+```
+
+![Alt text](./ssl-image.png)
+
+# [Watch the video](./ssl.mp4)
